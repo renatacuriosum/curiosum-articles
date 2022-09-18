@@ -25,3 +25,4 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [The little story of Elixir programming language](https://curiosum.com/blog/story-of-elixir-programming-language)
 - [Custom eLearning Application in Elixir – why is worth it?](https://curiosum.com/blog/custom-elearning-application-elixir-why-projects-examples)
 - [10 Marketing Tools Based on Elixir](https://curiosum.com/blog/marketing-tools-based-on-elixir)
+- [8 SaaS Using Elixir and Phoenix in Production](https://curiosum.com/blog/saas-using-elixir-and-phoenix)
