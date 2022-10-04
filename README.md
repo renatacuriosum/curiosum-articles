@@ -27,3 +27,4 @@ Check the constantly updated list of articles published on our [blog](https://cu
 - [10 Marketing Tools Based on Elixir](https://curiosum.com/blog/marketing-tools-based-on-elixir)
 - [8 SaaS Using Elixir and Phoenix in Production](https://curiosum.com/blog/saas-using-elixir-and-phoenix)
 - [Elixir vs Ruby in Depth Comparison](https://curiosum.com/blog/elixir-vs-ruby-comparison)
+- [What is App Scaling and why Elixir is Perfect for Scalable Applications?](https://curiosum.com/blog/what-is-app-scaling-why-elixir-perfect-scalable-app)
